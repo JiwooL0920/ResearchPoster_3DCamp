@@ -6,4 +6,7 @@ In Summer 2020, I worked as a full time research assistant in the Department of 
 * Assisted research for the development of open source tool for embedding optimization into applications  
 
 ## Poster  
-![](./poster.png)
+![](./poster.png)  
+
+## Link to our website  
+http://outreach.mcmaster.ca/#home
