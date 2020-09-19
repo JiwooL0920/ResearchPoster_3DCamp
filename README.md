@@ -10,3 +10,10 @@ In Summer 2020, I worked as a full time research assistant in the Department of 
 
 ## Link to our website  
 http://outreach.mcmaster.ca/#home
+
+## 3D Elm Graphics API Visualizer (ShapeCreator3D)
+**Web tool** for visualizing the 3D Elm Graphics API.     
+Available at:
+https://jiwool0920.github.io/ShapeCreator3D/index2.html  
+  
+Github repo for this project is available at: https://github.com/JiwooL0920/ShapeCreator3D
